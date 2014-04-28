@@ -1,0 +1,24 @@
+{
+  "author": "wondible",
+  "build": "64498",
+  "category": ["system-editor", "ui"],
+  "context": "client",
+  "date": "2014/04/27",
+  "description": "Enable the grid sandbox biome in the system editor, just in case moon isn't flat enough.",
+  "display_name": "Sandbox Biome",
+  "enabled": true,
+  "forum": null,
+  "id": "sandbox_biome",
+  "identifier": "com.wondible.pa.sandbox_biome",
+  "priority": 100,
+  "requires": [],
+  "scenes": {
+    "system_editor": [
+      "coui://ui/mods/sandbox_biome/sandbox_biome.css",
+      "coui://ui/mods/sandbox_biome/sandbox_biome.js"
+    ]
+  },
+  "signature": "not yet implemented",
+  "version": "1.0.0"
+}
+
