@@ -1,18 +1,15 @@
 {
   "author": "wondible",
-  "build": "66830",
+  "build": "69564",
   "category": ["system-editor", "ui"],
   "context": "client",
-  "date": "2014/06/01",
+  "date": "2014/07/29",
   "description": "Enable the grid sandbox biome in the system editor, just in case moon isn't flat enough.",
   "display_name": "Sandbox Biome",
-  "enabled": true,
-  "forum": null,
-  "id": "sandbox_biome",
+  "forum": "https://forums.uberent.com/threads/rel-sandbox-biome-1-1-66830.59086/",
   "identifier": "com.wondible.pa.sandbox_biome",
   "icon": "http://pamods.github.io/icons/sandbox_biome.png",
   "priority": 100,
-  "requires": [],
   "scenes": {
     "system_editor": [
       "coui://ui/mods/sandbox_biome/sandbox_biome.css",
@@ -20,6 +17,6 @@
     ]
   },
   "signature": "not yet implemented",
-  "version": "1.1.0"
+  "version": "1.2.0"
 }
 
