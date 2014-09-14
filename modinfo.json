@@ -6,7 +6,7 @@
   "date": "2014/09/14",
   "description": "Enable several built-in biome types not normally available in the system editor biome drop-down.",
   "display_name": "Hidden Biomes",
-  "forum": null,
+  "forum": "https://forums.uberent.com/threads/rel-hidden-biomes.64250/",
   "identifier": "com.wondible.pa.hidden_biomes",
   "icon": "http://pamods.github.io/icons/sandbox_biome.png",
   "priority": 100,
