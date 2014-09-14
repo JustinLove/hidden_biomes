@@ -1,22 +1,21 @@
 {
   "author": "wondible",
-  "build": "69564",
-  "category": ["system-editor", "ui"],
+  "build": "71937",
+  "category": ["system-editor", "ui", "biome"],
   "context": "client",
-  "date": "2014/07/29",
-  "description": "Enable the grid sandbox biome in the system editor, just in case moon isn't flat enough.",
-  "display_name": "Sandbox Biome",
-  "forum": "https://forums.uberent.com/threads/rel-sandbox-biome-1-1-66830.59086/",
-  "identifier": "com.wondible.pa.sandbox_biome",
+  "date": "2014/09/14",
+  "description": "Enable several built-in biome types not normally available in the system editor biome drop-down.",
+  "display_name": "Hidden Biomes",
+  "forum": null,
+  "identifier": "com.wondible.pa.hidden_biomes",
   "icon": "http://pamods.github.io/icons/sandbox_biome.png",
   "priority": 100,
   "scenes": {
     "system_editor": [
-      "coui://ui/mods/sandbox_biome/sandbox_biome.css",
-      "coui://ui/mods/sandbox_biome/sandbox_biome.js"
+      "coui://ui/mods/hidden_biomes/system_editor.js"
     ]
   },
   "signature": "not yet implemented",
-  "version": "1.2.0"
+  "version": "1.0.0"
 }
 
