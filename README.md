@@ -17,7 +17,7 @@ Desert biome with lots of tight passes.  Probably the prototype for designed pla
 
 ### Asteroid
 
-This biome type has several limitations.  It can't be previewed in the system editor, which precludes custom metal and CSG - you might be able to swing it by editing the planet as a sandbox and editing the file... but then this mod does you no good.  Having a planet with asteroid biome triggers the asteriod belt effect in-game.
+This biome type has several limitations.  It can't be previewed in the system editor, which precludes custom metal and CSG - you might be able to swing it by editing the planet as a sandbox and editing the file... but then this mod does you no good.  Having a planet with asteroid biome triggers the asteroid belt effect in-game.
 
 ### CSG Debug
 
