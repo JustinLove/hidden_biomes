@@ -5,6 +5,7 @@ Enable a number of normally hidden biome types in the system editor biome drop-d
 ## Biomes
 
 - 1v1 Test - no icon
+- Asteroid - icon built-in, has issues
 - CSG Debug - no icon
 - Ice Boss - icon built-in
 - Metal Boss - icon built-in
@@ -13,6 +14,10 @@ Enable a number of normally hidden biome types in the system editor biome drop-d
 ### 1v1 Test
 
 Desert biome with lots of tight passes.  Probably the prototype for designed planets, packaged as a biome rather than the new planetCSG attribute.  We don't know the planet parameters like radius, however.
+
+### Asteroid
+
+This biome type has several limitations.  It can't be previewed in the system editor, which precludes custom metal and CSG - you might be able to swing it by editing the planet as a sandbox and editing the file... but then this mod does you no good.  Having a planet with asteroid biome triggers the asteriod belt effect in-game.
 
 ### CSG Debug
 
