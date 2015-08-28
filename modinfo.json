@@ -1,9 +1,9 @@
 {
   "author": "wondible",
-  "build": "85138",
+  "build": "86765",
   "category": ["system-editor", "biome"],
   "context": "client",
-  "date": "2015/08/01",
+  "date": "2015/08/27",
   "description": "Enable several built-in biome types not normally available in the system editor biome drop-down.",
   "display_name": "Hidden Biomes",
   "forum": "https://forums.uberent.com/threads/rel-hidden-biomes.64250/",
@@ -16,6 +16,6 @@
     ]
   },
   "signature": "not yet implemented",
-  "version": "1.2.0"
+  "version": "1.2.1"
 }
 

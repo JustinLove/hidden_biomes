@@ -1,3 +1,7 @@
+## 1.2.1
+
+- Bump build version for titans release
+
 ## 1.2.0
 
 - Add asteroid biome circa 84871 (see readme for limitations)
